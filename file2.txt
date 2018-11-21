@@ -1,2 +1,6 @@
 Document 2 exercici 1.1 integracio robotica.
-Fem una modificació des de la maquina del desenvolupador 1.
+<<<<<<< HEAD
+Fem una modificació des de la maquina del desenvolupador 1. (si canviem aquest 1 per un 2 ja solucionariem el problema, però en aquest cas ho deixarem així, farem un push i farem un pull des de l'altra maquina)
+=======
+Fem una modificació des de la maquina del desenvolupador 2.
+>>>>>>> cc72b833e4f8c237ea4218ef59bc2c097122da28
