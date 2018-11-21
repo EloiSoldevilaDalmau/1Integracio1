@@ -1,0 +1,1 @@
+Document de text 1 per l'exercisi 1.1 d'integració robotica. És només un document amb el que farem un push cap a la branca master.
