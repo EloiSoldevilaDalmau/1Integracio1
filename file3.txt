@@ -1,2 +1,3 @@
 Document file3 de l'exercici 1.1 d'integració robotica. Creat en la branca principal quan un altre desenvolupador està treballant en una altra branca anomenada "carrot".
 En aquest punt afegim un tag ("v1.0").
+Tornem a modificar el file3 després d'haver afegit la tag v1.0.
